@@ -1,4 +1,4 @@
-# Calculadora Ruby
+# 🧮 Calculadora Ruby
 🚧`em construção`🚧
 
 - Segundo projeto desenvolvido com Ruby.
