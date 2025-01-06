@@ -1,5 +1,5 @@
 # 🧮 Calculadora Ruby
-🚧`em construção`🚧
+`finalizado`
 
 - Segundo projeto desenvolvido com Ruby.
 
